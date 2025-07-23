@@ -41,10 +41,12 @@
 ---
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahardika24&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/api?username=mahardika24&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahardika24&show_icons=true&theme=tokyonight" alt="Dika's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mahardika24&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahardika24&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 
 ---
