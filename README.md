@@ -43,7 +43,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahardika24&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=mahardika24&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/api?username=mahardika24&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" width="48%" />
 </div>
 
 
