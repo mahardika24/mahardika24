@@ -57,10 +57,6 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahardika24&theme=tokyonight" />
 </p>
 
-<p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahardika24&theme=tokyo-night"/>
-</p>
-
 ---
 
 ## 🏆 GitHub Achievements
